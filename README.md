@@ -1,6 +1,6 @@
 # A股日线行情数据异步下载器
 
-![A股日线行情数据异步下载器](https://pythondict.com/350f1584-5762-4169-adb5-86b6f148aabd)
+![A股日线行情数据异步下载器](http://ww1.sinaimg.cn/large/007W6O43gy1gh2niw3jfzg30hs0dc1ky.gif)
 
 基于Tushare和Celery的日线行情数据异步下载器。
 
