@@ -36,3 +36,4 @@ python -m celery worker -A tasks -l info --pool=eventlet
 python downloader.py
 ```
 
+源代码分析：[Python celery异步快速下载股票数据](https://pythondict.com/python-data-analyze/python-celery-stock-download/)
