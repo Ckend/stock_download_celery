@@ -6,6 +6,17 @@
 
 目前仅支持日线数据，欢迎补充。
 
+## 依赖
+
+> pymongo
+>
+> tushare
+>
+> celery
+>
+> eventlet
+>
+
 ## 使用：
 
 安装依赖:
