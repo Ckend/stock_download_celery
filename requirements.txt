@@ -1,0 +1,4 @@
+pymongo
+tushare
+celery
+eventlet
