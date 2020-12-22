@@ -36,7 +36,7 @@ mongodb
 启动 worker:
 
 ```
-python -m celery worker -A tasks -l info --pool=eventlet
+python -m celery -A tasks  worker -l info --pool=eventlet
 ```
 
 修改tasks.py中26行的token为你自己用户对应的tushare token.
